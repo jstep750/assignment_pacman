@@ -4,4 +4,5 @@
 
 - python3.7 required
 
-```python autograder.py```
+- run 
+  ```python autograder.py```
